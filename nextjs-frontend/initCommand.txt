@@ -1,0 +1,3 @@
+cd images
+serve -p 9000
+
