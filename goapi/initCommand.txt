@@ -1,0 +1,3 @@
+docker compose up
+entrar no container
+go run main.go
